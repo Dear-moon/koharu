@@ -21,7 +21,6 @@ hayro = { workspace = true }
 image = { workspace = true }
 koharu-agent = { workspace = true }
 koharu-config = { workspace = true }
-tempfile = { workspace = true }
 koharu-desktop = { workspace = true }
 koharu-ml = { workspace = true }
 koharu-metrics = { workspace = true }
